@@ -26,7 +26,10 @@ North region has 65 customers while Central has only 39—a 67% difference. Oppo
 Pro users contacted support 26 times within 2 weeks vs 14 times for Premium users. The onboarding experience needs improvement.
 
 
+
 <img width="857" height="609" alt="Screenshot-5" src="https://github.com/user-attachments/assets/4d760984-17e2-4948-8e72-6afa569936db" />
+
+
 
 
 <img width="769" height="653" alt="Screenshot-2" src="https://github.com/user-attachments/assets/2da03fff-170f-4263-87aa-6913bddc7384" />
@@ -82,15 +85,22 @@ Potential Impact: 15-20% increase in revenue
 <img width="769" height="653" alt="Screenshot-1" src="https://github.com/user-attachments/assets/2000aa2a-69d4-4d84-84b0-7fdb55ec7a77" />
 
 
+
+
 <img width="841" height="639" alt="Screenshot-4" src="https://github.com/user-attachments/assets/d5ce1045-5047-4f11-b9c4-a72a83ed2ed4" />
 
+
+
 <img width="811" height="651" alt="Screenshot-6" src="https://github.com/user-attachments/assets/40e0a75b-4a7a-4a69-9a73-22d736eca6a9" />
+
 
 
 <img width="763" height="521" alt="Screenshot-3" src="https://github.com/user-attachments/assets/6e9f2b4c-07bc-4faa-85ed-ce9ed7bf842c" />
 
 # 👩 About Me
+ 
  Charu Madaan
+ 
  Data Analyst | QA Software Tester | Business Intelligence
  Email: charumadaan88@gmail.com
  LinkedIn: https://www.linkedin.com/in/charu-madaan-7100b2210/
